@@ -1,0 +1,9 @@
+db.*
+shop_ceca_django/migrations/
+*.pyc
+.DS_Store
+
+django_shop_ceca.egg-info/
+build/
+dist/
+env/
