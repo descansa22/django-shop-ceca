@@ -15,7 +15,7 @@ CLASSIFIERS = [
 
 setup(
     name='django-shop-ceca',
-    version="0.1.0",
+    version="0.1.1",
     author='Jose Sanchez Moreno',
     author_email='jose@o2w.es',
     maintainer="Jose Sanchez Moreno",
